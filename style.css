@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 150px;
+}
+
+.my-list {
+  background-color:yellow;
+}
+#main-heading {
+  color:pink;
+} 
